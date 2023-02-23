@@ -66,8 +66,8 @@ Material:
     - Vector1_a6a34683b24048238edc290d774950ae: 0.04
     - Vector1_e9bfec1743ce46609438ea4bc9adbd61: 0.3
     - _Metallic: 0
-    - _Smoothness: 0.49948025
-    - snowOpacity: 0.000843546
+    - _Smoothness: 0
+    - snowOpacity: 0.03843665
     m_Colors:
     - Color_44631f1042384be9af9e8203c24be03b: {r: 0.3301887, g: 0.1958511, b: 0.1383054, a: 0}
     - Color_6ca69ade08894ee48884117ff82f05f6: {r: 0.419, g: 0.419, b: 0.419, a: 0}

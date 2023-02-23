@@ -19,9 +19,9 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Game
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 571}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -46,7 +46,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 571}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
   m_TopViewHeight: 30
@@ -123,7 +123,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 521}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 183
+  controlID: 372
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -149,7 +149,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 521}
   m_MaxSize: {x: 4001, y: 12021}
   vertical: 1
-  controlID: 184
+  controlID: 373
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -252,7 +252,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 21
+  controlID: 328
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -272,8 +272,8 @@ MonoBehaviour:
     y: 0
     width: 316
     height: 499
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -392,7 +392,7 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
     m_HSlider: 0
-    m_VSlider: 1
+    m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
@@ -405,7 +405,7 @@ MonoBehaviour:
       y: 21
       width: 1129
       height: 185
-    m_Scale: {x: 0.19074073, y: 0.19074073}
+    m_Scale: {x: 0.1712963, y: 0.1712963}
     m_Translation: {x: 564.5, y: 92.5}
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -413,12 +413,12 @@ MonoBehaviour:
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -2959.5146
-      y: -484.95148
-      width: 5919.0293
-      height: 969.90295
+      x: -3295.4595
+      y: -540
+      width: 6590.919
+      height: 1080
     m_MinimalGUI: 1
-  m_defaultScale: 0.19074073
+  m_defaultScale: 0.1712963
   m_LastWindowPixelSize: {x: 1129, y: 206}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
@@ -594,9 +594,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 50650000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 36fbffffc45b00002a5e0000a45f00005e600000
+      m_ExpandedIDs: 36fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -658,22 +658,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs/Entities
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Prefabs/Entities
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Klein\Documents\GitHub\Eigenprojekte\Simulation
+  m_LastProjectPath: C:\Users\Klein\Documents\GitHub\Eigenprojekte\Simulation\Simulation
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 866a0000
-    m_LastClickedID: 27270
-    m_ExpandedIDs: 00000000026900000469000006690000086900000a6900000c6900000e6900001069000012690000146900004e69000056690000
+    m_SelectedIDs: 02690000
+    m_LastClickedID: 26882
+    m_ExpandedIDs: 00000000026900000469000006690000086900000a6900000c6900000e690000106900001269000014690000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -728,7 +728,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -882,7 +882,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c262c1329a02fa49b5cb4c297106f3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_MinSize: {x: 129, y: 28}
+  m_MinSize: {x: 133, y: 30}
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: ProBuilder
