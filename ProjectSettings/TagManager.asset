@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Invader
+  - Pregenerated Mesh Trigger
+  - Procedural Mesh Start
+  - Procedural Mesh Stop
+  - PCG Simple
+  - PCG Noise
+  - Defender
+  - MazePlane
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Defender
+  - Invader
+  - Walls
+  - Bounds
+  - Destination
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fog
+    uniqueID: 3068844939
+    locked: 0
